@@ -1,1 +1,1 @@
-# Bite Bazaar App
+# Bite Bazaar App FE && BE
